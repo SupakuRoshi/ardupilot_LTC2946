@@ -1,0 +1,1 @@
+This branch is used to develop Battery Monitoring system with I2C Port on the cube orange system with external hardware LTC2946.
